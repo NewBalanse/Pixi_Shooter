@@ -1,0 +1,15 @@
+{
+  "name": "mmo_d2_v0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "beefy src/index.js --live"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pixi.js": "^4.8.7"
+  }
+}
